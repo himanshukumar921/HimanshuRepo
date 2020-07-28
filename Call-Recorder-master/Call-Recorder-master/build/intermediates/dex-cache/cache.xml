@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_66487b443379a25eca8a83ea14b91f142908897f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\4b4b9516a1da3eb99c9ffe79abaa4f02609a234e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_24b5f8aa2f021d23af41746935fb70d935719963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\b09b1c83e7b6c7225a571c8757de19d987473e53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_7b9163f5ee0ec0587007cb597c77517dc0168e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\ddf2c6330f886bd30fa4ef9f82b15841be3e02b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_6772c3de1cc63ecc66178cc77ec64fe8e4f38e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\1b660ca79884f745b9c8f8052d28e402a1127722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_54ad398c168e7c7acb1aad4dc8e4d465bc66624b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_034d1ad78e53c3ffa7ceb8c9db38b9ede3937f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\bf7215a1f51a900c5568427538fdcfa57b5b5353\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_d27c4f0463d4f4f2e7e7830e5c3ce1ea102f7b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\b14a8909f6a3ed34b173b1c6fb8af0690c2de29a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_350bfad0c7d1e834249bea411db5d0bef34df563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\ab9591720296a1ea62148838af772014dc7e2058\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_69786f741d88684c3afa102db945061e1db48f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\50027d3c6bb2dcd3c22eb9039388657de81bc0b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_2e75b18a42e732e40f79b5e9ca3329378e48b325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\3fd23baa0ca9ed214fb91aa346d6481e12aa9607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_d6efdd3bbc32744135211e2e189c633376c0e107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\2d7fe4d7f74dbda14dcceb913968c26f84ec8fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_0a8b74091e418dabaf73e457e125a6183eeed126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\c02370da02fb08bb2e9db28571ac9c26740c5ec5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_f832382e5ccda722f21fd555e101745ed288868b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KAUSHIK\.android\build-cache\77f642f7245e436c87d40710fa63c4a1e87f8fb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\KAUSHIK\Downloads\Call-Recorder-master\Call-Recorder-master\app\build\intermediates\pre-dexed\debug\classes_0b703250eb8454cfa7ae948229cc9c622c1170ac.jar" />
+    </item>
+
+</items>
